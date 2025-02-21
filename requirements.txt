@@ -1,0 +1,11 @@
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+wordcloud
+pyrebase
+vaderSentiment
+transformers
+Pillow
+requests
