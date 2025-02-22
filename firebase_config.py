@@ -42,3 +42,4 @@ admin_data = {
 # Store Data in Realtime Database
 db.reference(f"/users/{admin_uid}").set(admin_data)
 print("Admin added successfully!")
+
